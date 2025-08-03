@@ -7,11 +7,6 @@ Here's a simple and clear `README.md` file for a portfolio website built with on
 
 A simple and responsive personal portfolio website built using only **HTML** and **CSS**. This site showcases my educational background, intetrests, projects, and contact information.
 
-## 🔗 Live Demo
-
-[View Live Site](https://your-portfolio-link.com)  
-*(Replace this with your actual deployment link)*
-
 ## 📁 Project Structure
 
 ```
@@ -77,3 +72,4 @@ For any questions or suggestions, feel free to reach out at:
 
 Let me know if you'd like the content tailored for a specific design (e.g., dark theme, one-page layout, etc.) or if you're including JavaScript or other features later.
 ```
+
