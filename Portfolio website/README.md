@@ -12,7 +12,8 @@ A simple and responsive personal portfolio website built using only **HTML** and
 ```
 
 portfolio/
-├── styling (within the Head tag)
+├── css/
+│   └── style.css
 ├── images/
 │   └── (Abdullahi Abdulganiyu.jpg)
 ├── contact_frm.html
@@ -42,7 +43,7 @@ portfolio/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/Abumujahid1988/Abumujahid-Thecoder.git
 ````
 
 2. Open `index.html` and `contact_frm.html` in your browser.
@@ -72,4 +73,5 @@ For any questions or suggestions, feel free to reach out at:
 
 Let me know if you'd like the content tailored for a specific design (e.g., dark theme, one-page layout, etc.) or if you're including JavaScript or other features later.
 ```
+
 
