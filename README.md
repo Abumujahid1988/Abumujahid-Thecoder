@@ -1,2 +1,2 @@
---Python Week 1 Assignment--
-This is all about performing operations on two numbers as inputs by the user and print out the results.
+--Python Week 2 Assignment.
+It is all about Python List data structures.
