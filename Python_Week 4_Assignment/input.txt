@@ -1,0 +1,7 @@
+I am Abdullahi Abdulganiyu, from Nigeria.
+A Professional Front-end developer,
+who specializes in HTML, CSS & Java Script,
+as well as little understandings in Python Programming Language.
+
+I am also a graduate of Computer Engineering, aiming to be a full-stack developer,
+that will have full understandings of front-end, back-end and API mechanisms.
